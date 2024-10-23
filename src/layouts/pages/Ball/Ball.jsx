@@ -24,7 +24,7 @@ const human = document.getElementById('human')
 const cartoon = document.getElementById('cartoon')
 const logo = document.getElementById('logo')
 
-let running = false 
+let running = true
 let goRight = true 
 let goDown = true 
 
