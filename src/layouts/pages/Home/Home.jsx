@@ -3,7 +3,7 @@ import './Home.css'
 function Home() {
     return (
         <div className="home">
-            <img src="./public/human.png" alt="" />
+            <img src="./human.png" alt="" />
             <div className="text">
                 ชื่อ : ธนวรรธ ไคล้สา &nbsp; &nbsp;  ชื่อเล่น : ทิว <br /> <br />
                 รหัสนักศึกษา : 66073501 <br /> <br />
