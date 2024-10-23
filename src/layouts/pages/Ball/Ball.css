@@ -1,0 +1,83 @@
+#container {
+    /* border: 1px solid black; */
+    width: fit-content;
+    /* margin: 10px auto; */
+    border-radius: 5px;
+}
+
+#field {
+    border: 2px solid black;
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    border-radius: 5px;
+    background-image: url('./img/field.png');
+    background-position: center;
+    background-size: 100%;
+    /* variable */
+}
+
+#ball {
+    /* fixed */
+    border: 1px solid rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    left: 330px;
+    top: 180px;
+    background-color: white;
+    background-position: center;
+    background-size: 100%;
+}
+
+#control {
+   
+    margin: 25px;
+    padding: 30px;
+    text-align: center;
+}
+
+#control button{
+    margin-left: 20px;
+}
+
+#run {
+    margin-right: 20px;
+}
+
+.basketballBg {
+    background-image: url('./img/basketball.png');
+    background-position: center;
+    background-size: 100%;
+}
+
+.cartonBg {
+    background-image: url('./img/carton.png');
+    background-position: center;
+    background-size: 100%;
+}
+
+.footballBg {
+    background-image: url('./img/football.png');
+    background-position: center;
+    background-size: 100%;
+}
+
+.humanBg {  
+    background-image: url('./img/human.png');
+    background-position: center;
+    background-size: 100%;
+}
+
+.logoBg {
+    background-image: url('./img/logo.png');
+    background-position: center;
+    background-size: 100%;
+}
+
+.volleyballBg {
+    background-image: url('./img/volleyball.png');
+    background-position: center;
+    background-size: 100%;
+}
